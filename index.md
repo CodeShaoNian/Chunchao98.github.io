@@ -1,6 +1,6 @@
----
+﻿---
 layout: page
-title: 今、情热が岚になって
+title: 少年派
 showtag:
 - ICPC模板
 ---
