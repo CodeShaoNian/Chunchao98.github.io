@@ -1,5 +1,5 @@
-title: wu-kan
-url: http://wu-kan.github.io
+﻿title: 少年派
+url: https://chunchao98.github.io/
 baseurl: '' # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 author: WuK
 
@@ -252,6 +252,7 @@ post:
     - id: alipay
       src: /public/image/alipay.jpg
 
+
 valine:
   enable: true
   src: //cdn.jsdelivr.net/npm/valine
@@ -265,6 +266,7 @@ valine:
   highlight: true # 代码高亮
   avatarForce: false # 每次访问强制拉取最新的评论列表头像
   recordIP: true # 记录评论者IP
+
 
 page404:
   search_children: # 腾讯公益
