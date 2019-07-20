@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "hello Chunchao!"
+date:   2019-07-20 22:02
+categories: jekyll
+tags: start
+excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+mathjax: true
+---
+
 # 这是一个测试
 
 ## 1.普通文字
