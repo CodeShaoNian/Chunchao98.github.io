@@ -152,7 +152,7 @@ baidu-push: true
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //https://github.com/Chunchao98/Chunchao98.github.io/blob/master/public/image/headpic.jpg # 头像的地址
+    img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
 
   social:
   - title: rss # rss
