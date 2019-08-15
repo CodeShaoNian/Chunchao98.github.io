@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: 
 facebook_username:
-github_username:  Gaohaoyang
+github_username:  Chunchao98
 email: lccqdu123@163.com
 weibo_username: 
 zhihu_username: 
@@ -39,11 +39,10 @@ baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
 google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
-markdown: kramdown
+markdown:redcarpet
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+redcarpet:
+    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 
 # port
 # port: 1234
